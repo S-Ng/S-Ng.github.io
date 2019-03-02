@@ -7,7 +7,7 @@
 <style>
 <body> {
   background-color: #009999
-  >
+  }
   <font color="white">
   
 <h1>Simon Ng</h1>
@@ -25,6 +25,8 @@
   I'm a bioengineering student in my second year at the University of California, Los Angeles. My goal is to harness the power of biology to develop biotechnologies that will transform how we interface with the world. I am particlularly interested in applying biotechnology to space exploration and sustainability. <br>
 
 </p>
+<p>
+  
 
 <h3>Relevant Coursework</h3>
 </font>
