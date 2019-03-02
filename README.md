@@ -4,8 +4,8 @@
   <title>Simon Ng's Website</title>
   </head>
   
-<body bgcolor = "#009999">
-<font color="white">
+<body style="background-color:powderblue;">
+<font color="black">
   
 <h1>Simon Ng</h1>
 <h2>Summary</h2>
