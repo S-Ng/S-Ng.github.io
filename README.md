@@ -3,8 +3,12 @@
   <head>
   <title>Simon Ng's Website</title>
   </head>
-
-<body background="NorwaySnow.jpg">
+  
+<style>
+<body> {
+  background-color: #009999
+  >
+  <font color="white">
   
 <h1>Simon Ng</h1>
 <h2>Summary</h2>
@@ -23,7 +27,7 @@
 </p>
 
 <h3>Relevant Coursework</h3>
-
+</font>
 </body>
-
+</style>
 </html>
