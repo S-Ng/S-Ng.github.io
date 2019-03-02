@@ -4,7 +4,7 @@
   <title>Simon Ng's Website</title>
   </head>
   
-<body style="background-color:#7DCEA0;">
+<body style="background-color:#E9F7EF;">
 <font color="black">
   
 <h1>Simon Ng</h1>
