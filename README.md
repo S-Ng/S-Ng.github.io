@@ -4,11 +4,10 @@
   <title>Simon Ng's Website</title>
   </head>
   
-<body style="background-color:powderblue;">
+<body style="background-color:#7DCEA0;">
 <font color="black">
   
 <h1>Simon Ng</h1>
-<h2>Summary</h2>
 <p>
   Bioengineering Student, 2nd Year <br>
   University of California, Los Angeles <br>
@@ -25,7 +24,7 @@
   
 <h3>Relevant Coursework</h3>
 <ul>
-  <li>Machine Learning and Data-Driven Modeling in Bioengineering (see <a href = "https://github.com/S-Ng/Machine-learning-and-data-driven-modeling-in-Bioengineering">GitHub repository</a></li>
+  <li>Machine Learning and Data-Driven Modeling in Bioengineering (see <a href = "https://github.com/S-Ng/Machine-learning-and-data-driven-modeling-in-Bioengineering">GitHub repository</a>)</li>
   <li>Equilibrium Thermodynamics for Bioengineers</li>
   <li>Organic Chemistry</li>
 </ul>
