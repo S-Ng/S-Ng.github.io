@@ -4,9 +4,8 @@
   <title>Simon Ng's Website</title>
   </head>
   
-<style>
 <body bgcolor = "#009999">
-  <font color="white">
+<font color="white">
   
 <h1>Simon Ng</h1>
 <h2>Summary</h2>
@@ -29,6 +28,7 @@
   <li>Machine Learning and Data-Driven Modeling in Bioengineering (see <a href = "https://github.com/S-Ng/Machine-learning-and-data-driven-modeling-in-Bioengineering">GitHub repository</a></li>
   <li>Equilibrium Thermodynamics for Bioengineers</li>
   <li>Organic Chemistry</li>
+</ul>
   
 <h3>Hobbies</h3>
 <p>
@@ -39,5 +39,4 @@
   
 </font>
 </body>
-</style>
 </html>
