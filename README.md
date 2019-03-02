@@ -11,7 +11,7 @@
 <p>
   Bioengineering Student, 2nd Year <br>
   University of California, Los Angeles <br>
-  <a href = "ngsimon@g.ucla.edu">ngsimon@g.ucla.edu</a> <br>
+  ngsimon@g.ucla.edu <br>
   <a href = "https://www.linkedin.com/in/simon-a-ng/">LinkedIn</a> <br>
   <a href = "Resume_Simon_Ng.pdf"> Resume</a>
 </p>
