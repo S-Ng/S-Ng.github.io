@@ -1,2 +1,2 @@
 Check out the current final product!
-https://s-ng.github.io/
+<a href = "https://s-ng.github.io/" target=”_blank”> https://s-ng.github.io/</a>
